@@ -3,9 +3,7 @@ Saya Muhammad Ridha Samudra dengan NIM 2001680 mengerjakan LP12 pada mata kuliah
 untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 <br>
 <br>
-Saya Muhammad Ridha Samudra dengan NIM 2001680 mengerjakan LP11 pada mata kuliah Desain Pemrograman Beriorientasi Objek
-untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
-<br>
+
 ## Tampilan Utama
 ![image](https://user-images.githubusercontent.com/80692514/170838115-c089ef39-bed2-4ed2-b191-43d3662081cb.png)
 <br>
