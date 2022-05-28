@@ -13,5 +13,10 @@ untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah di
 ## Tampilan Form Setelah Tambah Data
 ![image](https://user-images.githubusercontent.com/80692514/170838229-10dd8800-8ede-4bae-995a-84bbcc7974a9.png)
 <br>
+## Tampilan Form Jika Delete Data
+![image](https://user-images.githubusercontent.com/80692514/170838294-0ded5774-24ab-4de6-8f26-e8425d80dfed.png)
+<br>
+
+
 
 
