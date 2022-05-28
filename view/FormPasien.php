@@ -23,20 +23,18 @@ class FormPasien implements KontrakView
 		if(isset($_POST['tambah']))
 		{
 			$this->prosespasien->tambahDataPasien($_POST);
-            header("location:index.php");
+            		header("location:index.php");
 		}
 
 		if(isset($_GET['id_hapus']))
 		{
 			$id = $_GET['id_hapus'];
 			$this->prosespasien->hapusDataPasien($id);
-
-            header("location:index.php");
+            		header("location:index.php");
 		}
 
 		if(isset($_POST['tambah']))
 		{
-			// Menambah value pada setiap input dengan data kosong
 			$this->tpl->replace("VALUE_NIK", "");
 			$this->tpl->replace("VALUE_NAMA", "");
 			$this->tpl->replace("VALUE_TEMPAT", "");
@@ -46,7 +44,6 @@ class FormPasien implements KontrakView
 			$this->tpl->replace("VALUE_TELEPON", "");
 			$this->tpl->replace("VALUE_ID", "");
 
-			// Mengganti name tombol submit menjadi tambah
 			$this->tpl->replace("VALUE_BUTTON", "tambah");
 		}
 
