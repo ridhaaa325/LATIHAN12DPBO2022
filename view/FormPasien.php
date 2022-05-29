@@ -23,16 +23,14 @@ class FormPasien implements KontrakView
 		if(isset($_POST['submit']))
 		{
 			$this->prosespasien->tambahDataPasien($_POST);
-			
-            header("location:index.php");
+            		header("location:index.php");
 		}
 
 		if(isset($_GET['id_hapus']))
 		{
 			$id = $_GET['id_hapus'];
 			$this->prosespasien->hapusDataPasien($id);
-
-            header("location:index.php");
+           		header("location:index.php");
 		}
 		$this->tpl->write();
 	}
